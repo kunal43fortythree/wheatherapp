@@ -1,2 +1,2 @@
-# wheatherapp
-simple wheather app using html css and javascript
+ https://kunal43fortythree.github.io/wheatherapp/
+
